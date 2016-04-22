@@ -18,7 +18,7 @@ public class page {
 
     }
 
-    public boolean isFianal() {
+    public boolean isFinal() {
         return mIsFianal;
     }
 
